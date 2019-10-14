@@ -1,5 +1,5 @@
 # ML Nanodegree Capstone Project
-## project overview
+## Project overview
 The project relates to using deep learning in computer vision domain specifically in autonmous driving . it's an implementation to NVIDIA's paper (End-To-End Learning For Self-Driving Cars) which is an end to end cnn that can map raw images to steering angles 
 
 ## Dataset link :
